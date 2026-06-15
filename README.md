@@ -8,18 +8,18 @@ Currently, I'm building **Synthetix OS**, an autonomous workflow orchestration p
 
 ---
 
-## 🚀 About Me
+## About Me
 
-* 🐍 Backend Developer specializing in Python and Django
-* 🤖 Exploring AI Agents, LLM Applications, and RAG Systems
-* ⚡ Building scalable systems with Celery, Redis, and PostgreSQL
-* 🌐 Developing full-stack applications using React and Django REST Framework
-* 📚 Continuously learning System Design and Distributed Systems
-* 🎯 Working toward a Backend Engineering role
+* Backend Developer specializing in Python and Django
+* Exploring AI Agents, LLM Applications, and RAG Systems
+* Building scalable systems with Celery, Redis, and PostgreSQL
+* Developing full-stack applications using React and Django REST Framework
+* Continuously learning System Design and Distributed Systems
+* Working toward a Backend Engineering role
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Backend
 
@@ -56,7 +56,7 @@ Currently, I'm building **Synthetix OS**, an autonomous workflow orchestration p
 
 ---
 
-## 🌟 Featured Project
+## Featured Project
 
 ### Synthetix OS
 
@@ -71,7 +71,7 @@ An AI-powered autonomous workflow orchestration platform featuring:
 
 ---
 
-## 📈 Current Focus
+## Current Focus
 
 * Advanced Django Development
 * System Design
@@ -81,7 +81,7 @@ An AI-powered autonomous workflow orchestration platform featuring:
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 I'm always open to discussing:
 
